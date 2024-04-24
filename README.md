@@ -16,7 +16,11 @@ sudo dpkg -i *.deb
 You may also need to uninstall fcitx4 packages as it also crashes plasma-desktop.
 
 ``` 
-sudo apt-get purge fcitx-config-common \
+sudo apt-get purge \
+ fcitx \
+ fcitx-bin \
+ fcitx-data \
+ fcitx-config-common \
  fcitx-frontend-all \
  fcitx-frontend-gtk3 \
  fcitx-imlist \
