@@ -25,7 +25,7 @@ sudo apt-get purge \
  fcitx-frontend-gtk3 \
  fcitx-imlist \
  fcitx-module-kimpanel \
- fcitx-module-quickphrase-editor5:amd64  \
+ fcitx-module-quickphrase-editor5  \
  fcitx-module-x11 \
  fcitx-ui-light \
  fcitx-config-gtk \
